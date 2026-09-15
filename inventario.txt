@@ -1,0 +1,10 @@
+P001;Mouse inalámbrico Logitech;35.9;20
+P002;Teclado mecánico Redragon;89.9;10
+P003;Cable USB-C 1m;12.5;46
+P004;Cargador rápido 20W;45.0;15
+P005;Audífonos Bluetooth;79.9;10
+P006;Funda para smartphone;18.0;30
+P007;Power bank 10000mAh;65.0;7
+P008;Mica de vidrio templado;8.5;40
+P009;Memoria USB 32GB;22.0;25
+P010;Soporte para laptop;55.0;5
